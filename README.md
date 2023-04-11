@@ -2,7 +2,8 @@
 Frozen lake involves crossing a frozen lake from Start(S) to Goal(G) without falling into any Holes(H) by walking over the Frozen(F) lake.
 The agent may not always move in the intended direction due to the slippery nature of the frozen lake.
 
-(https://www.gymlibrary.dev/_images/frozen_lake.gif)
+![alt text](https://www.gymlibrary.dev/_images/frozen_lake.gif "Frozen Lake")
+
       
 **Action Space**
 The agent takes a 1-element vector for actions. The action space is `(dir)`, where `dir` decides direction to move in which can be:
